@@ -342,6 +342,9 @@ footer{
     cursor: pointer;
 }
 
+ .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
 @media (width > 900px){
     body{
         text-align: start;
